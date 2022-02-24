@@ -1,4 +1,4 @@
-name: 'Whitesource Unified Agent Scan'
+name: 'Whitesource Scan'
 author: 'Azeem Shezad Ilyas'
 description: 'Run a scan using the Whitesource unified agent.'
 inputs:
